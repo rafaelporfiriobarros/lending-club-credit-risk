@@ -1,0 +1,13 @@
+# Dados
+notebooks/data/
+
+# Arquivos CSV
+*.csv
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Cache
+__pycache__/
+.ipynb_checkpoints/
