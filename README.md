@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Credit Risk Prediction using Lending Club Data
 
 
@@ -218,5 +217,4 @@ GitHub: https://github.com/rafaelporfiriobarros
 
 LinkedIn: https://linkedin.com/in/rafaelporfirio
 =======
-"# lending-club-credit-risk" 
->>>>>>> 6dd3942c116dd4b1c3f1ddf14314d0b2fe52bb4b
+
